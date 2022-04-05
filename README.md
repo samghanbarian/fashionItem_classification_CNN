@@ -13,9 +13,9 @@ The purpose of this project is to implement a CNN model for classifying and labl
 
 
 ## Files in Repo:
-* .[primary classification.ipynb](fashionItem_classification_CNN/primary classification.ipynb) Contains implementation of CNN model to classify between three main classes: 'Glasses/Sunglasses', 'Trousers/Jeans', 'Shoes'
-* .[Glasses and Sunglasses classification.ipynb](fashionItem_classification_CNN/Glasses and Sunglasses classification.ipynb) This file contains the code to classify the glasses into 'optical' and 'sun' glasses.
-* .[]()
+* [primary classification.ipynb] (fashionItem_classification_CNN/primary classification.ipynb) Contains implementation of CNN model to classify between three main classes: 'Glasses/Sunglasses', 'Trousers/Jeans', 'Shoes'
+* [Glasses and Sunglasses classification.ipynb] (fashionItem_classification_CNN/Glasses and Sunglasses classification.ipynb) This file contains the code to classify the glasses into 'optical' and 'sun' glasses.
+* []()
 
 
 ## Project Description
