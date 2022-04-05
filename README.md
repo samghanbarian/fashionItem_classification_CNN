@@ -2,7 +2,7 @@
 
 
 ## Project Intro/Objective
-The purpose of this project is to develop a CNN for classifying and labling fashion Items,
+The purpose of this project is to implement a CNN model for classifying and labling fashion Items,
 
 ### Methods Used
 * CNN
