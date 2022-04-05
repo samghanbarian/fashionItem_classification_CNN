@@ -1,34 +1,22 @@
 # fashionItem_classification_CNN
 
-# Project Name
-This project is a part of the [Data Science Working Group](http://datascience.codeforsanfrancisco.org) at [Code for San Francisco](http://www.codeforsanfrancisco.org).  Other DSWG projects can be found at the [main GitHub repo](https://github.com/sfbrigade/data-science-wg).
-
 
 ## Project Intro/Objective
 The purpose of this project is to develop a CNN for classifying and labling fashion Items,
 
-### Partner
-* [Name of Partner organization/Government department etc..]
-* Website for partner
-* Partner contact: [Name of Contact], [slack handle of contact if any]
-* If you do not have a partner leave this section out
-
 ### Methods Used
-* Inferential Statistics
+* CNN
 * Machine Learning
 * Data Visualization
 * Predictive Modeling
 * etc.
 
-### Technologies
-* R 
-* Python
-* D3
-* PostGres, MySql
-* Pandas, jupyter
-* HTML
-* JavaScript
-* etc. 
+
+## Files in Repo:
+* .[primary classification.ipynb](fashionItem_classification_CNN/primary classification.ipynb) Contains implementation of CNN model to classify between three main classes: 'Glasses/Sunglasses', 'Trousers/Jeans', 'Shoes'
+* .[Glasses and Sunglasses classification.ipynb](fashionItem_classification_CNN/Glasses and Sunglasses classification.ipynb) This file contains the code to classify the glasses into 'optical' and 'sun' glasses.
+* .[]()
+
 
 ## Project Description
 The project is to  identify and lable fashion item pictures collected from the web. The dataset composed of 16000 colored pictures 300 by 400 pixels in size. The pictures only featuring the items not the models. The items including shoes, glasses and sunglasses and trousers and jeans for both male and female.
@@ -71,14 +59,7 @@ For comparing different models, two metrics are considered: Accuracy and Confusi
 
 ### Network architecture
 
-## Needs of this project
 
-- frontend developers
-- data exploration/descriptive statistics
-- data processing/cleaning
-- statistical modeling
-- writeup/reporting
-- etc. (be as specific as possible)
 
 ## Getting Started
 
