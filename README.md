@@ -15,7 +15,14 @@ The purpose of this project is to implement a CNN model for classifying and labl
 ## Files in Repo:
 * [primary classification.ipynb] (fashionItem_classification_CNN/primary classification.ipynb) Contains implementation of CNN model to classify between three main classes: 'Glasses/Sunglasses', 'Trousers/Jeans', 'Shoes'
 * [Glasses and Sunglasses classification.ipynb] (fashionItem_classification_CNN/Glasses and Sunglasses classification.ipynb) This file contains the code to classify the glasses into 'optical' and 'sun' glasses.
-* []()
+* [Jeans and Trousers classification-Combined1.ipynb](fashionItem_classification_CNN/Jeans and Trousers classification-Combined1.ipynb) This file contains the code for the first combined model consists of two Conv layers and one Dense layer to categorize "trousers and Jeans" in four subclass of 'Trousers Male', 'Jeans Male', 'Trousers Female', 'Jeans Female'.
+* [Jeans and Trousers classification-Combined-2.ipynb](fashionItem_classification_CNN/Jeans and Trousers classification-Combined-2.ipynb) contains the code for a combined model with two Conv layers and two Dense layer to subclassify 'trousers/Jeans' into four different classes.
+* [Jeans and Trousers classification-Combined-dropout.ipynb](fashionItem_classification_CNN/Jeans and Trousers classification-Combined-dropout.ipynb) shows the code to examine dropout on the combined model with two dense layers.
+* [Jeans and Trousers classification-Combined-regularisation.ipynb](fashionItem_classification_CNN/Jeans and Trousers classification-Combined-regularisation.ipynb) Contains the code to examine L2 regularization on Conv layers for combined model with two dense layers
+* [Jeans and Trousers classification-gender.ipynb](fashionItem_classification_CNN/Jeans and Trousers classification-gender.ipynb) contains the code to classify the "jeans/trousers" class into "male" and "female" subclass.
+* [Jeans and Trousers classification-Female.ipynb](fashionItem_classification_CNN/Jeans and Trousers classification-Female.ipynb) After classifying regarding gender, this model is used to classify female pants into 'Jeans', 'Trousers' subclasses
+* [Jeans and Trousers classification-Male.ipynb](fashionItem_classification_CNN/Jeans and Trousers classification-Male.ipynb) same as the code above, this file contatins the code to categorize male pants into 'Jeans', 'Trousers' subclasses.
+* [Jeans and trousers classification-combined and hierarchical comparison.ipynb](fashionItem_classification_CNN/Jeans and trousers classification-combined and hierarchical comparison.ipynb) This file contatins the code for testing the combined model and hierarchical method to classify "Jeans/Trousers" category and comparing the score of the two approached based on test set.
 
 
 ## Project Description
